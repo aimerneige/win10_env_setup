@@ -32,7 +32,7 @@ You can get git on their [official website][3] or download directly [here][4]
 
 #### config
 
-Using bellow command to config your git quickly.
+Using bellow command to config git quickly.
 
 ```bash
 # user information
@@ -48,12 +48,27 @@ git config --global https.proxy https://127.0.0.1:1080
 
 #### download
 
+pass
+
 #### extensions
 
 1. One Dark Pro
 2. Material Icon Theme
 3. Python
 4. ...
+
+### Chrome
+
+#### download
+
+pass
+
+#### extensions
+
+1. AdBlock Plus
+2. ...
+
+
 
 ---
 
