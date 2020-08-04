@@ -1,5 +1,7 @@
 # win10_env_setup
 
+NOTE: This article is on build.
+
 ## Introduction
 
 This is an article about how to build my own windows development environment.\
@@ -20,13 +22,15 @@ It is doesn't matter what kind of system edition you are using, but I highly rec
 
 You can download a system iso file from the [Microsoft][1], or you can download an iso file [here][2].
 
-## git
+## Software
 
-### download
+### Git
+
+#### download
 
 You can get git on their [official website][3] or download directly [here][4]
 
-### config
+#### config
 
 Using bellow command to config your git quickly.
 
@@ -39,6 +43,17 @@ git config --global user.email aimer.neige.soft@gmail.com
 git config --global http.proxy http://127.0.0.1:1080
 git config --global https.proxy https://127.0.0.1:1080
 ```
+
+### Visual Studio Code
+
+#### download
+
+#### extensions
+
+1. One Dark Pro
+2. Material Icon Theme
+3. Python
+4. ...
 
 ---
 
