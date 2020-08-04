@@ -4,7 +4,7 @@
 
 This is an article about how to build my own windows development environment.
 
-[English](README.md)
+[English](README.md)\
 [简体中文](README-CN.md)
 
 ## System
