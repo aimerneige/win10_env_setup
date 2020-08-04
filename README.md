@@ -3,7 +3,7 @@
 ## Introduction
 
 This is an article about how to build my own windows development environment.\
-You can get some useful software and tips here.\
+You can find some useful software and use tips here.\
 If you have something to recommend me to use, just post an issue.\
 This repository will keep on update.
 
