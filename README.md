@@ -1,13 +1,13 @@
 # win10_env_setup
 
-NOTE: This article is on build.
-
 ## Introduction
 
 This is an article about how to build my own windows development environment.\
-You can find some useful software and use tips here.\
+You can find some useful software and using tips here.\
 If you have something to recommend me to use, just post an issue.\
 This repository will keep on update.
+
+Just for save some time on google.
 
 ## Language
 
@@ -22,15 +22,15 @@ It is doesn't matter what kind of system edition you are using, but I highly rec
 
 You can download a system iso file from the [Microsoft][1], or you can download an iso file [here][2].
 
-## Software
+## Git
 
-### Git
+### download
 
-#### download
+[Official Website](https://git-scm.com/)
 
-You can get git on their [official website][3] or download directly [here][4]
+[Download Directly](https://git-scm.com/download/win)
 
-#### config
+### config
 
 Using bellow command to config git quickly.
 
@@ -44,35 +44,54 @@ git config --global http.proxy http://127.0.0.1:1080
 git config --global https.proxy https://127.0.0.1:1080
 ```
 
-### Visual Studio Code
+## Visual Studio Code
 
-#### download
+### download
 
-pass
+[Official Website](https://code.visualstudio.com/)
 
-#### extensions
+[Download Directly](https://code.visualstudio.com/docs/?dv=win)
 
-1. One Dark Pro
-2. Material Icon Theme
-3. Python
-4. ...
+### config
 
-### Chrome
+You can use the extensions [Setting Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) to sync your config quickly.
 
-#### download
+## Daily Software
 
-pass
+| Software        | About            | Download                                                      |
+| :-------------- | :--------------- | :------------------------------------------------------------ |
+| Chrome          | Browser          | https://www.google.com/chrome/                                |
+| Telegram        | Chat             | https://desktop.telegram.org/                                 |
+| Snipaste        | Screenshot       | https://www.snipaste.com/                                     |
+| ShadowsocksR    | proxy            | https://github.com/shadowsocksrr/shadowsocksr-csharp/releases |
+| Traffic Monitor | netspeed display | https://github.com/zhongyang219/TrafficMonitor/releases       |
+| Etcher          | make live CD     | https://www.balena.io/etcher/                                 |
+| Disk Genius     | edit your disk   | https://www.diskgenius.com/                                   |
+| GitHub Desktop  | GitHub           | https://desktop.github.com/                                   |
+| Office          | Document make    | https://otp.landian.vip/                                      |
+| Bandzip v6.27   | zip              | https://en.bandisoft.com/bandizip/old/6/                      |
+| honeyview       | picture          | https://en.bandisoft.com/honeyview/                           |
+| honeycam        | screen record    | https://en.bandisoft.com/honeycam/                            |
+| screen to gif   | screen record    | https://www.screentogif.com/                                  |
+| OBS             | screen record    | https://obsproject.com/                                       |
+| Potplayer       | video play       | https://potplayer.daum.net/                                   |
 
-#### extensions
+## Develop Tools
 
-1. AdBlock Plus
-2. ...
-
-
+| Software or SDK | Download                                         |
+| :-------------- | :----------------------------------------------- |
+| Visual Studio   | https://visualstudio.microsoft.com/              |
+| Atom            | https://atom.io/                                 |
+| SublimeText     | https://www.sublimetext.com/                     |
+| Keil            | https://www.keil.com/                            |
+| Adunio          | https://www.arduino.cc/                          |
+| Raspberry Pi    | https://www.raspberrypi.org/                     |
+| Python          | https://www.python.org/                          |
+| Jetbrains IDE   | https://www.jetbrains.com/products.html#type=ide |
+| Adobe           | https://www.adobe.com/                           |
+| ~~Deleted~~     | [weibo@vposy](https://weibo.com/vposy)           |
 
 ---
 
 [1]: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise "Download ISO from Microsoft"
 [2]: https://www.reddit.com/r/Windows10LTSC/comments/hf58ut/windows_10_ltsc_iso_download/ "Download ISO from Reddit"
-[3]: https://git-scm.com/ "Home page for git"
-[4]: https://git-scm.com/download/win "Download git for windows"
