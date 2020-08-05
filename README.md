@@ -91,6 +91,8 @@ You can use the extensions [Setting Sync](https://marketplace.visualstudio.com/i
 | Python          | https://www.python.org/                          |
 | Jetbrains IDE   | https://www.jetbrains.com/products.html#type=ide |
 | Firefox Dev     | https://www.mozilla.org/en-US/firefox/developer/ |
+| ffmpeg          | https://ffmpeg.org/                              |
+| nodejs         | https://nodejs.org/en/                           |
 
 ---
 
