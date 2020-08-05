@@ -75,6 +75,8 @@ You can use the extensions [Setting Sync](https://marketplace.visualstudio.com/i
 | screen to gif   | screen record    | https://www.screentogif.com/                                  |
 | OBS             | screen record    | https://obsproject.com/                                       |
 | Potplayer       | video play       | https://potplayer.daum.net/                                   |
+| Adobe           | Adobe            | https://www.adobe.com/                                        |
+| ~~Deleted~~     | ~~Deleted~~      | [weibo@vposy](https://weibo.com/vposy)                        |
 
 ## Develop Tools
 
@@ -88,8 +90,7 @@ You can use the extensions [Setting Sync](https://marketplace.visualstudio.com/i
 | Raspberry Pi    | https://www.raspberrypi.org/                     |
 | Python          | https://www.python.org/                          |
 | Jetbrains IDE   | https://www.jetbrains.com/products.html#type=ide |
-| Adobe           | https://www.adobe.com/                           |
-| ~~Deleted~~     | [weibo@vposy](https://weibo.com/vposy)           |
+| Firefox Dev     | https://www.mozilla.org/en-US/firefox/developer/ |
 
 ---
 
